@@ -21,6 +21,17 @@
 
 ---
 
+📌 Featured Projects
+- 📚 **Library Management System (MySQL)**  
+  Relational database design, transactions, and SQL queries
+
+- 🌐 **Responsive Portfolio Website**  
+  Built using HTML & CSS with responsive design principles
+
+- 💻 **C++ Practice Programs**  
+  Core C++ concepts and DSA problem-solving
+
+
 ## 📌 Featured Projects
 - 📚 **Library Management System (MySQL)**  
   Relational design, transactions, real DBMS concepts
