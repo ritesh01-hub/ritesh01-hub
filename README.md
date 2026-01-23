@@ -64,7 +64,7 @@ A simple and clean task management app built to practice frontend fundamentals.
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/ritesh01-hub
-- LinkedIn: *(add when ready)*
+- LinkedIn: https://www.linkedin.com/in/ritesh-tiwari-0a917737a/
 
 ---
 
