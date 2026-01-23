@@ -1,44 +1,71 @@
-# 👋 Hi, I'm Ritesh Tiwari
+# Hi 👋, I'm Ritesh Tiwari
 
-🎓 CSE Student | 💻 Aspiring Software Engineer  
-🚀 Turning concepts into real-world projects  
-
----
-
-## 🧠 About Me
-- Strong in **C++ & DSA fundamentals**
-- Learning **Web Development (HTML, CSS, JS)**
-- Built projects using **MySQL & DBMS concepts**
-- Focused on consistency and interview prep
+🎓 Computer Science Student | 💻 Developer | 🧠 DSA Learner  
+📍 India
 
 ---
 
-## 🛠 Tech Stack
-- **Languages:** C++, Python, Java (basic)
-- **Web:** HTML, CSS
-- **Database:** MySQL
-- **Tools:** Git, GitHub, VS Code
+## 🚀 About Me
+
+I'm a passionate Computer Science student who enjoys building things and understanding how they work under the hood.
+
+- 💡 Currently focusing on **Data Structures & Algorithms** for strong problem-solving foundations  
+- 🌱 Learning **Web Development** and improving project quality step by step  
+- 🛠️ Believe in *learning by building*, refactoring, and revisiting concepts  
+- 🎯 Long-term goal: become a **strong software engineer**, not just a framework user  
+
+I value **consistency > speed**, and I prefer mastering fundamentals over chasing trends.
 
 ---
 
-## 📌 Featured Projects
-- 📚 **Library Management System (MySQL)**  
-  Relational design, transactions, real DBMS concepts
+## 🧠 Skills & Technologies
 
-- 🌐 **Responsive Portfolio Website**  
-  Built with HTML & CSS
+**Languages**
+- C++
+- JavaScript
+- HTML
+- CSS
 
-- 🧾 **C++ Learning Programs**  
-  Core logic & DSA practice
+**Core CS**
+- Data Structures & Algorithms
+- Problem Solving
+- Basic System & Logic Design
+
+**Development**
+- Frontend Web Development
+- Git & GitHub
+- Clean Code Practices
 
 ---
 
-## 📈 Goals (2026)
-- Master **DSA patterns**
-- Build **2–3 strong projects**
-- Crack a **software internship**
+## 📂 Projects
+
+Here are a few things I’ve worked on:
+
+### 📝 Todo List App
+A simple and clean task management app built to practice frontend fundamentals.
+
+🔗 Repository: https://github.com/ritesh01-hub/todo-list-app  
+🛠️ Tech Stack: HTML, CSS, JavaScript
+
+> Focused on UI clarity, logic separation, and clean structure.
+
+*(More projects coming as I continue building and refining.)*
 
 ---
 
-📍 Delhi, India  
-🔗 [LinkedIn] https://www.linkedin.com/in/ritesh-tiwari-0a917737a/
+## 📊 GitHub Stats
+
+![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritesh01-hub&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh01-hub&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/ritesh01-hub
+- LinkedIn: *(add when ready)*
+
+---
+
+⭐ *Always learning. Always improving. One step at a time.*
