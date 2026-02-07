@@ -42,17 +42,19 @@ I value **consistency > speed**, and I prefer mastering fundamentals over chasin
 
 Here are a few things I’ve worked on:
 
-### 📝 Todo List App
-A simple and clean task management app built to practice frontend fundamentals.
+### 🛍️ Myntra Clone
+A frontend clone of the Myntra website built to practice real-world UI and JavaScript fundamentals.
 
-🔗 Repository: https://github.com/ritesh01-hub/todo-list-app  
+🔗 Repository: https://github.com/ritesh01-hub/myntra-clone  
 🛠️ Tech Stack: HTML, CSS, JavaScript
 
-> Focused on UI clarity, logic separation, and clean structure.
+> Focused on layout structuring, DOM manipulation, and basic e-commerce flow like product listing and bag handling.
 
-*(More projects coming as I continue building and refining.)*
+*(More projects coming as I continue building and improving.)*
 
 ---
+
+
 
 ## 📊 GitHub Stats
 
