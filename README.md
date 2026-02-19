@@ -25,6 +25,8 @@ I value **consistency > speed**, and I prefer mastering fundamentals over chasin
 - JavaScript
 - HTML
 - CSS
+- Java
+- Python
 
 **Core CS**
 - Data Structures & Algorithms
