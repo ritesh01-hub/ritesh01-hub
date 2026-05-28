@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Ritesh+Tiwari;Full+Stack+Dev+%7C+MERN+Stack;DSA+%7C+200%2B+Problems+Solved;Building+one+project+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Ritesh+Tiwari;Full+Stack+Dev+%7C+MERN+Stack;DSA+%7C+250%2B+Problems+Solved;Building+one+project+at+a+time." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -17,8 +17,9 @@ I'm a passionate **Computer Science student** from 📍 India who enjoys buildin
 
 - 🔭 Currently building **Wanderlust** — a full-stack MERN travel listings app with image uploads & maps
 - 🌱 Deep diving into **Node.js / Express.js / MongoDB** and the full MERN stack
-- ⚔️ Solved **200+ DSA problems** in C++ & Python on LeetCode & GFG
-- 📸 Documenting my dev journey on Instagram [@ritesh01-hub](https://instagram.com/ritesh01-hub)
+- ⚔️ Solved **250+ DSA problems** in C++ & Python on LeetCode & GFG
+- 📸 Documenting my dev journey on Instagram [@ritesh01-hub](https://instagram.com/b2tiwari_01
+)
 - 🎯 Long-term goal: become a **strong software engineer**, not just a framework user
 - ⚡ Mantra: **Consistency > Speed** — master the basics before chasing trends
 
@@ -60,17 +61,6 @@ I'm a passionate **Computer Science student** from 📍 India who enjoys buildin
   <img src="https://img.shields.io/badge/DSA-Problem_Solving-2F81F7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Clean_Code-Practices-brightgreen?style=for-the-badge" />
 </p>
-
----
-
-## ⚔️ DSA Practice
-
-| Platform | Problems Solved | Language |
-|----------|----------------|----------|
-| LeetCode | 150+ | C++, Python |
-| GFG | 50+ | C++ |
-
-**Topics covered:** Two Pointers · Monotonic Stack · Hash Maps · Binary Search · Linked Lists · Sliding Window · Recursion
 
 ---
 
