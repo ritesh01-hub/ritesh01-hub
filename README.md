@@ -1,16 +1,22 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Ritesh+Tiwari+%7C+Full+Stack+Developer;MERN+Stack+%7C+React+%7C+Node.js;DSA+%E2%80%94+250%2B+Problems+Solved;Building+Production-Ready+Projects." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Ritesh+Tiwari+%7C+Full+Stack+Developer;MERN+Stack+%7C+React+%7C+Node.js;DSA+%E2%80%94+300%2B+Problems+Solved;Building+Production-Ready+Projects." alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ritesh01-hub&label=Profile%20Views&color=2f81f7&style=flat-square" />
-  &nbsp;
   <a href="https://www.linkedin.com/in/ritesh-tiwari-0a917737a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
   </a>
   &nbsp;
   <a href="https://github.com/ritesh01-hub">
     <img src="https://img.shields.io/github/followers/ritesh01-hub?label=Follow&style=flat-square&logo=github&color=181717" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/ritesh01-hub">
+    <img src="https://img.shields.io/badge/Instagram-Coding_Content-E4405F?style=flat-square&logo=instagram" />
+  </a>
+  &nbsp;
+  <a href="mailto:riteshtiwari660@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -21,9 +27,9 @@
 I'm a **Computer Science student** based in India, focused on building full-stack web applications and sharpening my problem-solving fundamentals.
 
 - 🏗️ Currently building **Wanderlust** — a full-stack MERN travel listings platform with image uploads, maps & authentication
-- 📚 Deep diving into **Node.js · Express.js · MongoDB** and scalable backend architecture
-- ⚔️ Solved **250+ DSA problems** in C++ & Python across LeetCode and GFG
-- 🌱 Recently added **React + Material UI** to my frontend toolkit
+- 🧩 Building production UIs with **React + Material UI**, alongside a strong **Node.js · Express.js · MongoDB** backend base
+- ⚔️ Solved **300+ DSA problems** in C++ & Python across LeetCode, GFG, and CodeChef — currently deep in graphs, Union-Find, and segment trees
+- 🎙️ Run an educational coding series on Instagram breaking down React concepts (hooks, patterns) into visual carousels
 - 🎯 Goal: Become a **strong software engineer** — not just a framework user
 - ⚡ Principle: **Consistency > Speed** — master the fundamentals before chasing trends
 
@@ -74,20 +80,26 @@ I'm a **Computer Science student** based in India, focused on building full-stac
 ### 🌍 Wanderlust
 > Full-stack travel listings platform with user authentication, cloud image uploads, and map integration.
 
+<!-- 📸 Add a screenshot or short GIF of the app here — e.g. ![Wanderlust demo](./assets/wanderlust-demo.png) -->
+
 | | |
 |---|---|
 | **Repo** | [ritesh01-hub/wanderlust](https://github.com/ritesh01-hub/wanderlust) |
+| **Live Demo** | _add deployed link here (Render/Vercel)_ |
 | **Stack** | MongoDB · Express.js · Node.js · EJS · Cloudinary · Mapbox · Passport.js |
-| **Highlights** | MVC architecture · RESTful routing · User auth · Cloud media handling |
+| **Highlights** | MVC architecture · RESTful routing · Joi validation · User auth (Passport.js) · Cloud media handling |
 
 ---
 
 ### ☀️ React Weather App
 > Real-time weather app with city search, dynamic backgrounds, and 5-day forecast.
 
+<!-- 📸 Add a screenshot or short GIF of the app here -->
+
 | | |
 |---|---|
 | **Repo** | [ritesh01-hub/react-weather-app](https://github.com/ritesh01-hub/react-weather-app) |
+| **Live Demo** | _add deployed link here (Vercel/Netlify)_ |
 | **Stack** | React · Material UI · OpenWeatherMap API |
 | **Highlights** | Component-based design · Live API integration · Responsive MUI layout |
 
@@ -115,7 +127,7 @@ I'm a **Computer Science student** based in India, focused on building full-stac
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ritesh01-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
@@ -124,6 +136,11 @@ I'm a **Computer Science student** based in India, focused on building full-stac
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh01-hub&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- Replace YOUR_LEETCODE_USERNAME with your actual LeetCode handle -->
+  <img src="https://leetcode-stats-badge.herokuapp.com/?username=YOUR_LEETCODE_USERNAME" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -139,8 +156,12 @@ I'm a **Computer Science student** based in India, focused on building full-stac
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/b2tiwari_01" target="_blank">
+  <a href="https://instagram.com/ritesh01-hub" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:riteshtiwari660@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
