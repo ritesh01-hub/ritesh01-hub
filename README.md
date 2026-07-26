@@ -94,7 +94,7 @@ I'm a **Computer Science student** based in India, focused on building full-stac
 | | |
 |---|---|
 | **Repo** | [ritesh01-hub/react-weather-app](https://github.com/ritesh01-hub/react-weather-app) |
-| **Live Demo** | _add deployed link here (Vercel/Netlify)_ |
+| **Live Demo** ritesh01-hub.github.io/react-weather-app/
 | **Stack** | React · Material UI · OpenWeatherMap API |
 | **Highlights** | Component-based design · Live API integration · Responsive MUI layout |
 
