@@ -80,9 +80,11 @@ I'm a **Computer Science student** based in India, focused on building full-stac
 | | |
 |---|---|
 | **Repo** | [ritesh01-hub/wanderlust](https://github.com/ritesh01-hub/wanderlust) |
-| **Live Demo** | wanderlust-fjo7.onrender.com|
+| **Live Demo** | [wanderlust-fjo7.onrender.com](https://wanderlust-fjo7.onrender.com/) |
 | **Stack** | MongoDB · Express.js · Node.js · EJS · Cloudinary · Mapbox · Passport.js |
 | **Highlights** | MVC architecture · RESTful routing · Joi validation · User auth (Passport.js) · Cloud media handling |
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_App-2F81F7?style=flat-square&logo=render&logoColor=white)](https://wanderlust-fjo7.onrender.com/)
 
 ---
 
@@ -94,9 +96,11 @@ I'm a **Computer Science student** based in India, focused on building full-stac
 | | |
 |---|---|
 | **Repo** | [ritesh01-hub/react-weather-app](https://github.com/ritesh01-hub/react-weather-app) |
-| **Live Demo** ritesh01-hub.github.io/react-weather-app/
+| **Live Demo** | [ritesh01-hub.github.io/react-weather-app](https://ritesh01-hub.github.io/react-weather-app/) |
 | **Stack** | React · Material UI · OpenWeatherMap API |
 | **Highlights** | Component-based design · Live API integration · Responsive MUI layout |
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_App-2F81F7?style=flat-square&logo=githubpages&logoColor=white)](https://ritesh01-hub.github.io/react-weather-app/)
 
 ---
 
@@ -134,8 +138,8 @@ I'm a **Computer Science student** based in India, focused on building full-stac
 </p>
 
 <p align="center">
-  <!-- Replace YOUR_LEETCODE_USERNAME with your actual LeetCode handle -->
-  <img src="https://leetcode-stats-badge.herokuapp.com/?username=YOUR_LEETCODE_USERNAME" alt="LeetCode Stats" />
+  <!-- LeetCode stats -->
+  <img src="https://leetcode-stats-badge.herokuapp.com/?username=Riteshtiwari_01" alt="LeetCode Stats" />
 </p>
 
 ---
