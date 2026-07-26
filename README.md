@@ -80,7 +80,7 @@ I'm a **Computer Science student** based in India, focused on building full-stac
 | | |
 |---|---|
 | **Repo** | [ritesh01-hub/wanderlust](https://github.com/ritesh01-hub/wanderlust) |
-| **Live Demo** | _add deployed link here (Render/Vercel)_ |
+| **Live Demo** | wanderlust-fjo7.onrender.com|
 | **Stack** | MongoDB · Express.js · Node.js · EJS · Cloudinary · Mapbox · Passport.js |
 | **Highlights** | MVC architecture · RESTful routing · Joi validation · User auth (Passport.js) · Cloud media handling |
 
