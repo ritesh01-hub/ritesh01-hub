@@ -11,10 +11,6 @@
     <img src="https://img.shields.io/github/followers/ritesh01-hub?label=Follow&style=flat-square&logo=github&color=181717" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/ritesh01-hub">
-    <img src="https://img.shields.io/badge/Instagram-Coding_Content-E4405F?style=flat-square&logo=instagram" />
-  </a>
-  &nbsp;
   <a href="mailto:riteshtiwari660@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
@@ -29,7 +25,6 @@ I'm a **Computer Science student** based in India, focused on building full-stac
 - 🏗️ Currently building **Wanderlust** — a full-stack MERN travel listings platform with image uploads, maps & authentication
 - 🧩 Building production UIs with **React + Material UI**, alongside a strong **Node.js · Express.js · MongoDB** backend base
 - ⚔️ Solved **300+ DSA problems** in C++ & Python across LeetCode, GFG, and CodeChef — currently deep in graphs, Union-Find, and segment trees
-- 🎙️ Run an educational coding series on Instagram breaking down React concepts (hooks, patterns) into visual carousels
 - 🎯 Goal: Become a **strong software engineer** — not just a framework user
 - ⚡ Principle: **Consistency > Speed** — master the fundamentals before chasing trends
 
@@ -154,10 +149,6 @@ I'm a **Computer Science student** based in India, focused on building full-stac
   &nbsp;
   <a href="https://www.linkedin.com/in/ritesh-tiwari-0a917737a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/ritesh01-hub" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:riteshtiwari660@gmail.com" target="_blank">
