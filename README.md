@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Ritesh+Tiwari+%7C+Full+Stack+Developer;MERN+Stack+%7C+React+%7C+Node.js;DSA+%E2%80%94+300%2B+Problems+Solved;Building+Production-Ready+Projects." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Ritesh+Tiwari+%7C+Full+Stack+Developer;MERN+Stack+%7C+React+%7C+Node.js;DSA+%E2%80%94+540%2B+Problems+Solved;Building+Production-Ready+Projects." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -23,8 +23,10 @@
 I'm a **Computer Science student** based in India, focused on building full-stack web applications and sharpening my problem-solving fundamentals.
 
 - 🏗️ Currently building **Wanderlust** — a full-stack MERN travel listings platform with image uploads, maps & authentication
-- 🧩 Building production UIs with **React + Material UI**, alongside a strong **Node.js · Express.js · MongoDB** backend base
-- ⚔️ Solved **300+ DSA problems** in C++ & Python across LeetCode, GFG, and CodeChef — currently deep in graphs, Union-Find, and segment trees
+- 🧩 Building production UIs with **React + Material UI**, alongside a strong **Node.js · Express.js · MongoDB · MySQL** backend base
+- ⚔️ Solved **540+ DSA problems** (344 LeetCode · 193 GFG · 4 Codeforces) — currently deep in graphs, Union-Find, and segment trees (with lazy propagation)
+- 🔥 LeetCode contest rating **1,470** · current streak **36 days** · max streak **103 days**
+- 🎓 Completed GFG's **SummerSkillUp** structured DSA course
 - 🎯 Goal: Become a **strong software engineer** — not just a framework user
 - ⚡ Principle: **Consistency > Speed** — master the fundamentals before chasing trends
 
@@ -57,6 +59,7 @@ I'm a **Computer Science student** based in India, focused on building full-stac
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
@@ -75,12 +78,11 @@ I'm a **Computer Science student** based in India, focused on building full-stac
 ### 🌍 Wanderlust
 > Full-stack travel listings platform with user authentication, cloud image uploads, and map integration.
 
-<!-- 📸 Add a screenshot or short GIF of the app here — e.g. ![Wanderlust demo](./assets/wanderlust-demo.png) -->
-
 | | |
 |---|---|
 | **Repo** | [ritesh01-hub/wanderlust](https://github.com/ritesh01-hub/wanderlust) |
 | **Live Demo** | [wanderlust-fjo7.onrender.com](https://wanderlust-fjo7.onrender.com/) |
+| **Timeline** | Jan 2026 – Apr 2026 |
 | **Stack** | MongoDB · Express.js · Node.js · EJS · Cloudinary · Mapbox · Passport.js |
 | **Highlights** | MVC architecture · RESTful routing · Joi validation · User auth (Passport.js) · Cloud media handling |
 
@@ -91,16 +93,26 @@ I'm a **Computer Science student** based in India, focused on building full-stac
 ### ☀️ React Weather App
 > Real-time weather app with city search, dynamic backgrounds, and 5-day forecast.
 
-<!-- 📸 Add a screenshot or short GIF of the app here -->
-
 | | |
 |---|---|
 | **Repo** | [ritesh01-hub/react-weather-app](https://github.com/ritesh01-hub/react-weather-app) |
 | **Live Demo** | [ritesh01-hub.github.io/react-weather-app](https://ritesh01-hub.github.io/react-weather-app/) |
+| **Timeline** | May 2026 |
 | **Stack** | React · Material UI · OpenWeatherMap API |
 | **Highlights** | Component-based design · Live API integration · Responsive MUI layout |
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_App-2F81F7?style=flat-square&logo=githubpages&logoColor=white)](https://ritesh01-hub.github.io/react-weather-app/)
+
+---
+
+### 📚 Library Management System
+> Relational database-driven system for managing books, members, and issue/return records.
+
+| | |
+|---|---|
+| **Repo** | [ritesh01-hub/library-management-system-mysql](https://github.com/ritesh01-hub/library-management-system-mysql) |
+| **Stack** | MySQL |
+| **Highlights** | SQL transactions · Overdue tracking · FK-based relational design · ER diagram included |
 
 ---
 
@@ -126,6 +138,16 @@ I'm a **Computer Science student** based in India, focused on building full-stac
 
 ---
 
+### 🕐 Digital Clock
+> Real-time clock and date display built with Java Swing.
+
+| | |
+|---|---|
+| **Stack** | Java (Swing, JLabel, SimpleDateFormat, Calendar, javax.swing.Timer) |
+| **Highlights** | Live-updating UI · Timer-driven refresh logic |
+
+---
+
 ## 📊 Stats
 
 <p align="center">
@@ -138,7 +160,7 @@ I'm a **Computer Science student** based in India, focused on building full-stac
 </p>
 
 <p align="center">
-  <!-- LeetCode stats -->
+  <!-- LeetCode stats: 344 solved (139 Easy · 177 Medium · 28 Hard) | Rating 1,470 | 36-day streak -->
   <img src="https://leetcode-stats-badge.herokuapp.com/?username=Riteshtiwari_01" alt="LeetCode Stats" />
 </p>
 
