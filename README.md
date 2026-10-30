@@ -1,96 +1,92 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Ritesh+Tiwari;Full+Stack+Software+Developer;MERN+Stack+%7C+C%2B%2B+%7C+DSA;550%2B+Data+Structures+%26+Algorithms+Solved" alt="Typing Banner" />
+# Ritesh Tiwari
 
-  <p>
-    <a href="https://linkedin.com/in/ritesh-tiwari-0a917737a">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://leetcode.com/u/Riteshtiwari_01/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
-    </a>
-    <a href="mailto:riteshtiwari660@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-</div>
+**Full-Stack Developer (MERN) | C++ | Data Structures & Algorithms**
+
+B.Tech CSE (Lateral Entry) at Galgotias College of Engineering & Technology, Greater Noida. Expected graduation: June 2027.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-tiwari-0a917737a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Riteshtiwari_01/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:riteshtiwari660@gmail.com)
 
 ---
 
-### Executive Summary
+## About
 
-Full-stack developer with a strong foundation in computer science fundamentals, data structures, and algorithms. Experienced in designing RESTful architectures, relational and NoSQL databases, and full-stack web applications using the MERN stack.
+I build full-stack web applications using the MERN stack and care about clean architecture, input validation, and structured error handling. My foundation is in data structures and algorithms, and I aim to be an engineer with strong fundamentals rather than only a framework user.
 
-- 💻 **Problem Solving**: 550+ algorithmic problems solved across LeetCode and GeeksforGeeks; peak contest rating of 1,651 (top 18.9% globally).
-- 🛠️ **Engineering**: Designing production-grade web applications focusing on MVC architecture, input sanitization, and structured error handling.
-- 🎯 **Areas of Interest**: Distributed backend systems, scalable API design, and performance optimization.
+- **Problem solving:** 550+ problems solved across LeetCode and GeeksforGeeks
+- **LeetCode:** peak contest rating of 1,651 (top 18.9% globally)
+- **Currently focused on:** backend development, API design, and software engineering internships
 
 ---
 
-### Technical Proficiency
+## Technical Skills
 
-| Category | Technologies & Tools |
+| Category | Technologies |
 | :--- | :--- |
-| **Languages** | C++, JavaScript (ES6+), Java, Python, SQL, HTML5/CSS3 |
-| **Frontend Development** | React.js, Tailwind CSS, Bootstrap 5, Material UI, EJS |
-| **Backend & APIs** | Node.js, Express.js, RESTful Architecture, MVC Pattern |
-| **Databases** | MongoDB (Mongoose ODM), MySQL |
-| **Developer Tooling** | Git, GitHub, Postman, Linux CLI, Render, Vercel |
+| **Languages** | C++, JavaScript (ES6+), Java, Python, SQL, HTML5, CSS3 |
+| **Frontend** | React.js, Tailwind CSS, Bootstrap 5, Material UI, EJS |
+| **Backend** | Node.js, Express.js, REST APIs, MVC architecture |
+| **Databases** | MongoDB (Mongoose), MySQL |
+| **Tools** | Git, GitHub, Postman, Linux CLI, Render, Vercel |
 
 ---
 
-### Key Projects
+## Projects
 
-#### [Wanderlust — Full-Stack Rental Marketplace](https://github.com/ritesh01-hub/wanderlust)
-*Production-ready accommodation booking platform built with MVC architecture and cloud integrations.*
-- **Stack:** Node.js, Express.js, MongoDB, Mongoose, EJS, Cloudinary, Mapbox, Passport.js
-- **Architecture:** Engineered modular MVC structure with 9 RESTful endpoints and centralized error-handling middleware (`wrapAsync`).
-- **Data Validation & Security:** Implemented schema validation using Joi to sanitize input payloads and integrated Passport.js session authentication.
-- **Media & Geo-services:** Configured Cloudinary asset pipelines and integrated Mapbox SDK for forward geocoding.
-- **Deployment:** [Live Application](https://wanderlust-fjo7.onrender.com/)
+### [Wanderlust: Full-Stack Property Listing Platform](https://github.com/ritesh01-hub/wanderlust) | [Live Demo](https://wanderlust-fjo7.onrender.com/)
 
----
+Airbnb-style listing platform with full CRUD, reviews, authentication, image uploads, and map integration.
 
-#### [Weather Intelligence Dashboard](https://github.com/ritesh01-hub/react-weather-app)
-*Single-page application rendering real-time meteorological metrics with dynamic UI states.*
+- **Stack:** Node.js, Express.js, MongoDB, Mongoose, EJS, Passport.js, Cloudinary, Mapbox, Joi
+- Modular MVC structure with 9 RESTful endpoints and 2 Mongoose models (listings with nested reviews)
+- Request validation with Joi and centralized async error handling via a `wrapAsync` middleware
+- Session-based authentication with Passport.js; Cloudinary for image storage; Mapbox for geocoding
+- Deployed on Render with MongoDB Atlas
+
+### [Weather Dashboard](https://github.com/ritesh01-hub/react-weather-app) | [Live Demo](https://ritesh01-hub.github.io/react-weather-app/)
+
+Single-page React app showing real-time weather data for any searched location.
+
 - **Stack:** React.js, Axios, Material UI, OpenWeatherMap API
-- **State & Lifecycle:** Utilized React Hooks (`useState`, `useEffect`) to coordinate asynchronous API queries and manage real-time updates.
-- **Resilience:** Implemented defensive response parsing and contextual error boundaries to handle failed API calls gracefully.
-- **Deployment:** [Live Application](https://ritesh01-hub.github.io/react-weather-app/)
+- State and async data fetching with `useState` and `useEffect`
+- Graceful handling of invalid locations and failed network requests
+
+### [Library Management System](https://github.com/ritesh01-hub/library-management-system-mysql)
+
+Relational database design for books, members, and transactions.
+
+- **Stack:** MySQL
+- Normalized schema (3NF) with foreign-key constraints
+- SQL procedures, transactions, and aggregate queries for overdue fines and inventory status
 
 ---
 
-#### [Relational Library Management System](https://github.com/ritesh01-hub/library-management-system-mysql)
-*Normalized database engine modeling asset tracking, user memberships, and transaction logs.*
-- **Stack:** MySQL, Relational Database Design
-- **Data Integrity:** Designed 3NF-compliant relational schemas enforcing foreign-key constraints and cascading updates.
-- **Business Logic:** Authored complex SQL procedures, transactions, and aggregate queries for calculating overdue fines and inventory status.
+## Achievements
+
+- Top 18.9% on LeetCode with a peak contest rating of 1,651
+- 550+ problems solved (LeetCode and GeeksforGeeks), covering trees, graphs, and dynamic programming
+- LeetCode 200 Days Badge (2026); 100-Day Challenge Certification with a 103-day streak
+
+## Certifications
+
+- React.js: Basics to Advanced, PW Skills (Oct 2026)
+- Decode C++ with DSA, PW Skills (Feb 2026)
+- Full Stack Web Development, GeeksforGeeks / NationSkillUp (Oct 2025 – Feb 2026)
 
 ---
 
-### Technical Metrics & Problem Solving
+## GitHub Stats
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=ritesh01-hub&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh01-hub&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <img src="https://leetcode-stats-badge.herokuapp.com/?username=Riteshtiwari_01" alt="LeetCode Metrics" />
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ritesh01-hub&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh01-hub&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-### Contact & Profiles
+## Contact
 
-- **Email**: [riteshtiwari660@gmail.com](mailto:riteshtiwari660@gmail.com)
-- **LinkedIn**: [linkedin.com/in/ritesh-tiwari-0a917737a](https://www.linkedin.com/in/ritesh-tiwari-0a917737a/)
-- **LeetCode**: [leetcode.com/u/Riteshtiwari_01](https://leetcode.com/u/Riteshtiwari_01/)
-- **GitHub**: [github.com/ritesh01-hub](https://github.com/ritesh01-hub)
+- Email: [riteshtiwari660@gmail.com](mailto:riteshtiwari660@gmail.com)
+- LinkedIn: [ritesh-tiwari-0a917737a](https://www.linkedin.com/in/ritesh-tiwari-0a917737a/)
+- LeetCode: [Riteshtiwari_01](https://leetcode.com/u/Riteshtiwari_01/)
