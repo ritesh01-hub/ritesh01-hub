@@ -1,189 +1,96 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Ritesh+Tiwari+%7C+Full+Stack+Developer;MERN+Stack+%7C+React+%7C+Node.js;DSA+%E2%80%94+540%2B+Problems+Solved;Building+Production-Ready+Projects." alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Ritesh+Tiwari;Full+Stack+Software+Developer;MERN+Stack+%7C+C%2B%2B+%7C+DSA;550%2B+Data+Structures+%26+Algorithms+Solved" alt="Typing Banner" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ritesh-tiwari-0a917737a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ritesh01-hub">
-    <img src="https://img.shields.io/github/followers/ritesh01-hub?label=Follow&style=flat-square&logo=github&color=181717" />
-  </a>
-  &nbsp;
-  <a href="mailto:riteshtiwari660@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+  <p>
+    <a href="https://linkedin.com/in/ritesh-tiwari-0a917737a">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://leetcode.com/u/Riteshtiwari_01/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
+    </a>
+    <a href="mailto:riteshtiwari660@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+### Executive Summary
 
-I'm a **Computer Science student** based in India, focused on building full-stack web applications and sharpening my problem-solving fundamentals.
+Full-stack developer with a strong foundation in computer science fundamentals, data structures, and algorithms. Experienced in designing RESTful architectures, relational and NoSQL databases, and full-stack web applications using the MERN stack.
 
-- 🏗️ Currently building **Wanderlust** — a full-stack MERN travel listings platform with image uploads, maps & authentication
-- 🧩 Building production UIs with **React + Material UI**, alongside a strong **Node.js · Express.js · MongoDB · MySQL** backend base
-- ⚔️ Solved **540+ DSA problems** (344 LeetCode · 193 GFG · 4 Codeforces) — currently deep in graphs, Union-Find, and segment trees (with lazy propagation)
-- 🔥 LeetCode contest rating **1,470** · current streak **36 days** · max streak **103 days**
-- 🎓 Completed GFG's **SummerSkillUp** structured DSA course
-- 🎯 Goal: Become a **strong software engineer** — not just a framework user
-- ⚡ Principle: **Consistency > Speed** — master the fundamentals before chasing trends
+- 💻 **Problem Solving**: 550+ algorithmic problems solved across LeetCode and GeeksforGeeks; peak contest rating of 1,651 (top 18.9% globally).
+- 🛠️ **Engineering**: Designing production-grade web applications focusing on MVC architecture, input sanitization, and structured error handling.
+- 🎯 **Areas of Interest**: Distributed backend systems, scalable API design, and performance optimization.
 
 ---
 
-## 🛠️ Tech Stack
+### Technical Proficiency
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" />
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-### Tools & Practices
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVC_Architecture-2F81F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean_Code-brightgreen?style=for-the-badge" />
-</p>
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | C++, JavaScript (ES6+), Java, Python, SQL, HTML5/CSS3 |
+| **Frontend Development** | React.js, Tailwind CSS, Bootstrap 5, Material UI, EJS |
+| **Backend & APIs** | Node.js, Express.js, RESTful Architecture, MVC Pattern |
+| **Databases** | MongoDB (Mongoose ODM), MySQL |
+| **Developer Tooling** | Git, GitHub, Postman, Linux CLI, Render, Vercel |
 
 ---
 
-## 🚀 Featured Projects
+### Key Projects
 
-### 🌍 Wanderlust
-> Full-stack travel listings platform with user authentication, cloud image uploads, and map integration.
-
-| | |
-|---|---|
-| **Repo** | [ritesh01-hub/wanderlust](https://github.com/ritesh01-hub/wanderlust) |
-| **Live Demo** | [wanderlust-fjo7.onrender.com](https://wanderlust-fjo7.onrender.com/) |
-| **Timeline** | Jan 2026 – Apr 2026 |
-| **Stack** | MongoDB · Express.js · Node.js · EJS · Cloudinary · Mapbox · Passport.js |
-| **Highlights** | MVC architecture · RESTful routing · Joi validation · User auth (Passport.js) · Cloud media handling |
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View_App-2F81F7?style=flat-square&logo=render&logoColor=white)](https://wanderlust-fjo7.onrender.com/)
+#### [Wanderlust — Full-Stack Rental Marketplace](https://github.com/ritesh01-hub/wanderlust)
+*Production-ready accommodation booking platform built with MVC architecture and cloud integrations.*
+- **Stack:** Node.js, Express.js, MongoDB, Mongoose, EJS, Cloudinary, Mapbox, Passport.js
+- **Architecture:** Engineered modular MVC structure with 9 RESTful endpoints and centralized error-handling middleware (`wrapAsync`).
+- **Data Validation & Security:** Implemented schema validation using Joi to sanitize input payloads and integrated Passport.js session authentication.
+- **Media & Geo-services:** Configured Cloudinary asset pipelines and integrated Mapbox SDK for forward geocoding.
+- **Deployment:** [Live Application](https://wanderlust-fjo7.onrender.com/)
 
 ---
 
-### ☀️ React Weather App
-> Real-time weather app with city search, dynamic backgrounds, and 5-day forecast.
-
-| | |
-|---|---|
-| **Repo** | [ritesh01-hub/react-weather-app](https://github.com/ritesh01-hub/react-weather-app) |
-| **Live Demo** | [ritesh01-hub.github.io/react-weather-app](https://ritesh01-hub.github.io/react-weather-app/) |
-| **Timeline** | May 2026 |
-| **Stack** | React · Material UI · OpenWeatherMap API |
-| **Highlights** | Component-based design · Live API integration · Responsive MUI layout |
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View_App-2F81F7?style=flat-square&logo=githubpages&logoColor=white)](https://ritesh01-hub.github.io/react-weather-app/)
+#### [Weather Intelligence Dashboard](https://github.com/ritesh01-hub/react-weather-app)
+*Single-page application rendering real-time meteorological metrics with dynamic UI states.*
+- **Stack:** React.js, Axios, Material UI, OpenWeatherMap API
+- **State & Lifecycle:** Utilized React Hooks (`useState`, `useEffect`) to coordinate asynchronous API queries and manage real-time updates.
+- **Resilience:** Implemented defensive response parsing and contextual error boundaries to handle failed API calls gracefully.
+- **Deployment:** [Live Application](https://ritesh01-hub.github.io/react-weather-app/)
 
 ---
 
-### 📚 Library Management System
-> Relational database-driven system for managing books, members, and issue/return records.
-
-| | |
-|---|---|
-| **Repo** | [ritesh01-hub/library-management-system-mysql](https://github.com/ritesh01-hub/library-management-system-mysql) |
-| **Stack** | MySQL |
-| **Highlights** | SQL transactions · Overdue tracking · FK-based relational design · ER diagram included |
+#### [Relational Library Management System](https://github.com/ritesh01-hub/library-management-system-mysql)
+*Normalized database engine modeling asset tracking, user memberships, and transaction logs.*
+- **Stack:** MySQL, Relational Database Design
+- **Data Integrity:** Designed 3NF-compliant relational schemas enforcing foreign-key constraints and cascading updates.
+- **Business Logic:** Authored complex SQL procedures, transactions, and aggregate queries for calculating overdue fines and inventory status.
 
 ---
 
-### 📝 QuoraPosts REST API
-> RESTful API for post management with full CRUD operations and server-side rendering.
+### Technical Metrics & Problem Solving
 
-| | |
-|---|---|
-| **Repo** | [ritesh01-hub/quora-posts](https://github.com/ritesh01-hub/quora-posts) |
-| **Stack** | Node.js · Express.js v5 · EJS · UUID · method-override |
-| **Highlights** | REST principles · Middleware design · Server-side rendering |
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=ritesh01-hub&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh01-hub&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
----
+  <br />
 
-### 🛍️ Myntra Clone
-> Frontend clone of the Myntra e-commerce UI, focused on layout and DOM manipulation.
-
-| | |
-|---|---|
-| **Repo** | [ritesh01-hub/myntra-clone](https://github.com/ritesh01-hub/myntra-clone) |
-| **Stack** | HTML · CSS · JavaScript |
-| **Highlights** | Responsive layout · Product listing · Bag handling logic |
-
----
-
-### 🕐 Digital Clock
-> Real-time clock and date display built with Java Swing.
-
-| | |
-|---|---|
-| **Stack** | Java (Swing, JLabel, SimpleDateFormat, Calendar, javax.swing.Timer) |
-| **Highlights** | Live-updating UI · Timer-driven refresh logic |
+  <img src="https://leetcode-stats-badge.herokuapp.com/?username=Riteshtiwari_01" alt="LeetCode Metrics" />
+</div>
 
 ---
 
-## 📊 Stats
+### Contact & Profiles
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritesh01-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh01-hub&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh01-hub&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <!-- LeetCode stats: 344 solved (139 Easy · 177 Medium · 28 Hard) | Rating 1,470 | 36-day streak -->
-  <img src="https://leetcode-stats-badge.herokuapp.com/?username=Riteshtiwari_01" alt="LeetCode Stats" />
-</p>
-
----
-
-## 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/ritesh01-hub" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ritesh-tiwari-0a917737a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:riteshtiwari660@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Always learning. Always building. One commit at a time.</i>
-</p>
+- **Email**: [riteshtiwari660@gmail.com](mailto:riteshtiwari660@gmail.com)
+- **LinkedIn**: [linkedin.com/in/ritesh-tiwari-0a917737a](https://www.linkedin.com/in/ritesh-tiwari-0a917737a/)
+- **LeetCode**: [leetcode.com/u/Riteshtiwari_01](https://leetcode.com/u/Riteshtiwari_01/)
+- **GitHub**: [github.com/ritesh01-hub](https://github.com/ritesh01-hub)
