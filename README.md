@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full-Stack Developer (MERN) · C++ & DSA · Backend-focused</b><br/>
-  B.Tech CSE (Lateral Entry) @ Galgotias College of Engineering & Technology · Expected June 2027
+  B.Tech CSE @ Galgotias College of Engineering & Technology · Expected June 2027
 </p>
 
 <p align="center">
