@@ -27,12 +27,12 @@ Computer Science undergraduate who builds web applications with the MERN stack, 
 
 | Category | Technologies |
 |---|---|
-| **Languages** | C++, JavaScript (ES6+), Java, Python, SQL |
-| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS, Bootstrap 5 |
+| **Languages** | C++, JavaScript (ES6+), TypeScript, Java, Python, SQL |
+| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS, Bootstrap 5, TanStack Query, Zod, Axios |
 | **Backend** | Node.js, Express.js, REST APIs, MVC Architecture, EJS |
 | **Databases** | MongoDB (Mongoose), MySQL, MongoDB Atlas |
 | **Authentication** | Passport.js, session-based authentication |
-| **Tools** | Git, GitHub, Postman, VS Code |
+| **Tools** | Git, GitHub, Postman, VS Code, Vite |
 | **Deployment** | Render, Vercel, GitHub Pages |
 | **Fundamentals** | Data Structures & Algorithms, OOP, DBMS, API design |
 
@@ -66,6 +66,21 @@ A frontend-only task management app where an admin assigns tasks and employees a
 - Deployed on Vercel with continuous deployment from GitHub
 
 **Stack:** React.js, Vite, Tailwind CSS, Context API, localStorage
+
+---
+
+### Decision Dashboard: Weighted Decision-Making App
+[Live Demo](https://decision-dashboard-green.vercel.app) · [Source Code](https://github.com/ritesh01-hub/decision-dashboard) · Nov 2026
+
+A responsive app that compares multiple options against weighted benefit/cost criteria and ranks them automatically.
+
+- Data fetched with Axios from a mock JSON API, validated with Zod schemas and cached with TanStack Query
+- Add, edit and remove options and criteria, with weight validation (total must be 100%)
+- Min-max normalization calculates scores live, ranks options and highlights the recommended one
+- "Reset to Original" restores the fetched data; the source data stays read-only
+- Written in TypeScript and deployed on Vercel
+
+**Stack:** React.js, TypeScript, Vite, Tailwind CSS, TanStack Query, Zod, Axios
 
 ---
 
